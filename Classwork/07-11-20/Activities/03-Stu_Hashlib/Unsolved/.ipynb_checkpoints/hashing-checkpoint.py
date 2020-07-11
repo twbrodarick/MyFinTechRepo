@@ -1,4 +1,4 @@
-    import hashlib
+import hashlib
 
 # output sha256 hash in hexadecimal string format
 def hash(message):
